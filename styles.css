@@ -1,0 +1,29 @@
+
+html{
+    background-image: url(https://images.unsplash.com/photo-1671733438082-779e44b8cad2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80);
+}
+
+h1 {
+    color: red;
+    font-size: 60 px;
+    width: 150px;
+}
+
+p {
+    color: brown;
+    font-family: 'Sofia Sans Semi Condensed', sans-serif;
+}
+
+#box{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: calc(50% - 75px);
+    box-sizing: border-box;
+}
+#teste{
+    width: 200px;
+    height: 200px;
+    object-fit: fill;
+}
+
